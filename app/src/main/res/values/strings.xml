@@ -1,0 +1,9 @@
+<resources>
+    <string name="app_name">Registro de Usuario</string>
+    <string name="todo">TODO</string>
+    <string name="ejemplo_mail">ejemplo@mail</string>
+    <string name="nombres">Nombres</string>
+    <string name="crear_usuario">Crear Usuario</string>
+    <string name="password_7">Password (7 )</string>
+    <string name="apellidos">Apellidos</string>
+</resources>
